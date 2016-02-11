@@ -174,9 +174,9 @@
         "Nom du scénario": "Nombre de escena",
         "Actif": "Activo",
         "Exécuter en avant plan": "Ejecutar en el primer plano",
-        "Dernier lancement": "Dernier lancement",
+        "Dernier lancement": "Última ejecución",
         "Etat": "Estado",
-        "A exécuter": "A exécuter",
+        "A exécuter": "Ejecutar",
         "Par": "Par",
         "Condition optionnelle": "Condición opcional",
         "Si": "Si",
@@ -1696,7 +1696,7 @@
         "Version": "Versión"
     },
     "desktop/modal/cron.human.insert.php": {
-        "A exécuter": "A exécuter",
+        "A exécuter": "Ejecutar",
         "En date du": "Fecha"
     },
     "/var/www/html/test.php": {
