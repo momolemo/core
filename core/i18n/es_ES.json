@@ -355,7 +355,7 @@
         "Sur ce prix 40 % seront reversés au développeur": "Sobre este precio, 40% será donado al conceptor",
         "Sur ce prix 60 % seront reversés au développeur": "El 60% de este precio será donado al desarrollador",
         "Sur ce prix 65 % seront reversés au développeur (doit être supérieur ou égal à 5 €)": "El 65% de estre precio será donado al desarrollador (debe ser superior o igual a 5€)",
-        "N'oubliez pas de rajouter une image à votre création en passant par le market.": "No olvide añadir una imagen a su creación a través del market.",
+        "N'oubliez pas de rajouter une image à votre création en passant par le market.": "No olvide añadir una imagen a su creación a través del Market.",
         "ID": "ID",
         "Nom": "Nombre",
         "Type": "Tipo",
@@ -384,7 +384,7 @@
         "Annuler": "Cancelar",
         "Ou en cliquant ": "O haciendo clic",
         "ici": "aquí",
-        "Votre objet a été envoyé avec succès sur le market": "Su artículo ha sido enviado con éxito al mercado"
+        "Votre objet a été envoyé avec succès sur le market": "Su artículo ha sido enviado con éxito al Market"
     },
     "desktop/php/connection.php": {
         "Nom d'utilisateur": "Nombre de usuario",
@@ -559,14 +559,14 @@
     },
     "desktop/php/administration.php": {
         "Configuration générale": "Configuración general",
-        "Nom de votre Jeedom (utilisé notamment par le market)": "Nombre de su Jeedom (utilizado para el market)",
+        "Nom de votre Jeedom (utilisé notamment par le market)": "Nombre de su Jeedom (utilizado para el Market)",
         "Nom de votre Jeedom": "Nombre de su Jeedom",
         "Clef API global de Jeedom": "Clave de API global de Jeedom",
         "Clef API": "Clave API",
         "Générer": "Generar",
         "Indique votre type de matériel": "Indique el tipo de equipo",
         "Système": "Sistema",
-        "Clef d'installation qui permet d'identifier votre Jeedom quand il communique avec le market": "Clave de instalación que identifica su Jeedom cuando se comunica con el market",
+        "Clef d'installation qui permet d'identifier votre Jeedom quand il communique avec le market": "Clave de instalación que identifica su Jeedom cuando se comunica con el Market",
         "Clef d'installation": "Clave de instalación",
         "Remise à zéro": "Actualización a cero",
         "Langue de votre Jeedom": "Idioma de su Jeedom",
@@ -622,7 +622,7 @@
         "Mobile couleur commande": "Color de la orden (móvil)",
         "Configuration des commandes": "Configuración de las ordenes",
         "Historique": "Historial",
-        "Afficher les statistiques sur les widgets": "Afficher les statistiques sur les widgets",
+        "Afficher les statistiques sur les widgets": "Ver las estadísticas de los widgets",
         "Période de calcul pour min, max, moyenne (en heures)": "Période de calcul pour min, max, moyenne (en heures)",
         "Période de calcul pour la tendance (en heures)": "Période de calcul pour la tendance (en heures)",
         "Délai avant archivage (en heures)": "Délai avant archivage (en heures)",
@@ -1139,7 +1139,7 @@
         "Avancée": "Avanzada",
         "Variables des scénarios": "Variables de escena",
         "Etes-vous sûr de vouloir supprimer le scénario": "Está seguro de querer borrar la escena",
-        "Lancement du scénario réussi": "Lanzamiento de escena realizado con éxito",
+        "Lancement du scénario réussi": "Ejecución de escena realizada con éxito",
         "Log d'exécution du scénario": "Log de ejecución de escena",
         "Export du scénario": "Exportación de escena",
         "En date du": "Fecha",
@@ -1162,7 +1162,7 @@
         "Simple": "Simple",
         "Avancée": "Avanzada",
         "Etes-vous sûr de vouloir supprimer le scénario": "Está seguro de querer borrar la escena",
-        "Lancement du scénario réussi": "Lanzamiento de escena realizado con éxito",
+        "Lancement du scénario réussi": "Ejecución de escena realizada con éxito",
         "Variables des scénarios": "Variables de las escenas",
         "Testeur d'expression": "Comprobar expresión",
         "est": "es",
@@ -1212,8 +1212,8 @@
         "ACTION": "ACCIÓN"
     },
     "desktop/js/plugin.js": {
-        "Voir sur le market": "Ver en el mercado",
-        "Envoyer sur le market": "Ver en el Mercado",
+        "Voir sur le market": "Ver en el Market",
+        "Envoyer sur le market": "Ver en el Market",
         "Supprimer": "Borrar",
         "Documentation": "Documentación",
         "Statut": "Estado",
@@ -1236,7 +1236,7 @@
         "Attention ceci est une opération risquée. Confirmez-vous que vous comprennez bien les risques et qu\\'en cas de Jeedom non fonctionel par la suite aucune demande de support ne sera acceptée (cette tentative d\\'accès est enregistrée) ?": "Tenga en cuenta que es una operación arriesgada. ¿ Usted Confirma que entiende bien los riesgos y que en caso de que Jeedom no funciona posteriormente no se aceptará ninguna solicitud de soporte (este intento de acceso está guardado)?",
         "Connexion échouée :": "Conexión en error",
         "Connexion réussie": "Conexión exitosa",
-        "Connexion au market réussie": "Conectado con éxito al mercado",
+        "Connexion au market réussie": "Conectado con éxito al Market",
         "Cache vidé": "Caché vaciado",
         "Administration système": "Administración del sistema"
     },
@@ -1308,7 +1308,7 @@
         "L\\'opération a échoué": "La operación falló",
         "Mettre à jour": "Actualización",
         "Supprimer": "Borrar",
-        "Envoyer sur le market": "Ver en el Mercado",
+        "Envoyer sur le market": "Ver en el Market",
         "Partager": "Compartir",
         "Voir": "Vista"
     },
@@ -1399,7 +1399,7 @@
         "Market et mise à jour": "Market y actualización",
         "Adresse": "Dirección",
         "Installer automatiquement les widgets manquants": "Instalar automáticamente los widgets que faltan",
-        "Afficher les plugins mis en avant par le market": "Afficher les plugins mis en avant par le market",
+        "Afficher les plugins mis en avant par le market": "Mostrar plugins destacados en el Market",
         "Faire une sauvegarde avant la mise à jour": "Hacer una copia de seguridad antes de la actualización",
         "Mettre à jour automatiquement": "Mettre à jour automatiquement",
         "Branche": "Rama",
@@ -1451,7 +1451,7 @@
         "Fonction": "Función",
         "Programmation": "Programación",
         "Timeout (min)": "Timeout (min)",
-        "Dernier lancement": "Último lanzamiento",
+        "Dernier lancement": "Última ejecución",
         "Statut": "Estado"
     },
     "desktop/js/cron.js": {
