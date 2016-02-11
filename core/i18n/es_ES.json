@@ -100,10 +100,10 @@
         "Pause de ": "Pausa",
         " seconde(s)": "segundo(s)",
         "Activation du scénario : ": "Activación de escena:",
-        "[Erreur] Aucune commande trouvée pour ": "[Erreur] Comando no encontrado",
+        "[Erreur] Aucune commande trouvée pour ": "[Error] Orden no encontrada",
         "Désactivation du scénario : ": "Desactivación de escena",
-        "Lancement du scénario : ": "Lanzamiento de escena:",
-        "Lancement provoqué": "Lanzamiento provocado",
+        "Lancement du scénario : ": "Ejecución de escena:",
+        "Lancement provoqué": "Ejecución forzada",
         "Action sur scénario impossible. Scénario introuvable - Vérifiez l'id : ": "Acción para escena imposible. No se ha encontrado la escena - Verifique la ID:",
         "[Wait] Condition valide : ": "[Wait] Condición válida :"
     },
@@ -143,7 +143,7 @@
         "Debug": "Depurar",
         "Log": "Registro",
         "Gestion automatique": "Gestión automática",
-        "Dernier lancement": "Último lanzamiento",
+        "Dernier lancement": "Última ejecución",
         "Local": "Local",
         "OK": "OK",
         "Désactiver": "Desactivar",
@@ -318,7 +318,7 @@
         "Connexion de l'utilisateur : ": "Conexión del usuario:"
     },
     "install/backup.php": {
-        "***************Lancement de la sauvegarde de Jeedom le ": "*************** Lanzamiento de la salvaguardia de Jeedom el ",
+        "***************Lancement de la sauvegarde de Jeedom le ": "***************Haciendo copia de seguridad de Jeedom el ",
         "Vérification du système de fichiers (corruption)...": "Verificación del sistema de archivos (corrupción) ...",
         "OK": "OK",
         "Mise à plat des droits...": "Derechos aplanamiento ...",
@@ -767,7 +767,7 @@
         "Information Vent (vitesse)": "Información de viento (velocidad)",
         "Information Vent (direction)": "Información de viento (dirección)",
         "Information Generique": "Información genérica",
-        "ne pas tenir compte de cette commande": "ignorar este comando",
+        "ne pas tenir compte de cette commande": "ignorar esta orden",
         "Lumiere Bouton ON (action)": "Botón de iluminación ON (acción)",
         "Lumiere Bouton OFF (action)": "Botón de iluminación OFF (acción)",
         "Lumiere SLIDER (action)": "SLIDER de iluminación (acción)",
@@ -828,7 +828,7 @@
         "Thermostat Verrouillage (info)": "Bloqueo de termostato (info)",
         "Alarme état (info)": "Estado de la alarma (info)",
         "Générique (info)": "Genérico (info)",
-        "Ne pas tenir compte de cette commande": "ignorar este comando"
+        "Ne pas tenir compte de cette commande": "ignorar esta orden"
     },
     "core/js/jeedom.class.js": {
         "Assistant cron": "Asistente cron",
@@ -909,7 +909,7 @@
         "Edition complète": "Edición completada"
     },
     "desktop/js/view.js": {
-        "Vous êtes en mode édition vous pouvez déplacer les widgets, les redimensionner et changer l'ordre des commandes dans les widgets": "Está en el modo de edición, puede desplazar y cambiar el tamaño de los widgets y cambiar el orden de los comandos de los widgets"
+        "Vous êtes en mode édition vous pouvez déplacer les widgets, les redimensionner et changer l'ordre des commandes dans les widgets": "Está en el modo de edición, puede desplazar y cambiar el tamaño de los widgets y cambiar el orden de las órdenes de los widgets"
     },
     "desktop/php/view_edit.php": {
         "Créer une vue": "Crear una vista",
@@ -1092,7 +1092,7 @@
         "Remplace les mots par leur synonymes lors de la génération des commandes": "Reemplaza las palabras por sus sinónimos en el momento de la generación de las ordenes",
         "Réponse": "Respuesta",
         "Conversion binaire": "Conversión binaria",
-        "Convertir les commandes binaires": "Convertir comandos binarios",
+        "Convertir les commandes binaires": "Convertir órdenes binarias",
         "Utilisateurs autorisés": "Usuarios autorizados",
         "Liste des utilisateurs (login) séparés par un |": "Lista de usuarios (login) separados por una |",
         "Autoriser Jeedom à supprimer les demandes syntaxiquement incorrectes": "Autorizar a Jeedom para eliminar las solicitudes con formato incorrecto",
@@ -1190,7 +1190,7 @@
         "Ajouter bloc": "Añadir el bloque",
         "Evènement": "Acontecimiento",
         "Programmation": "Programación",
-        "Rechercher une commande": "Buscar un comando",
+        "Rechercher une commande": "Buscar una orden",
         "Rechercher un scenario": "Buscar una escena",
         "Rechercher d\\'une fonction": "Búsqueda de una función",
         "Supprimer l\\'action": "Borrar acción",
@@ -1596,7 +1596,7 @@
         "Historique": "Historial"
     },
     "desktop/js/dashboard.js": {
-        "Vous êtes en mode édition vous pouvez déplacer les widgets, les redimensionner et changer l'ordre des commandes dans les widgets": "Está en el modo de edición, puede desplazar y cambiar el tamaño de los widgets y cambiar el orden de los comandos de los widgets"
+        "Vous êtes en mode édition vous pouvez déplacer les widgets, les redimensionner et changer l'ordre des commandes dans les widgets": "Está en el modo de edición, puede desplazar y cambiar el tamaño de los widgets y cambiar el orden de las órdenes de los widgets"
     },
     "core/ajax/update.ajax.php": {
         "[START UPDATE]\n": "[START UPDATE]",
@@ -1708,14 +1708,14 @@
     },
     "desktop/modal/system.action.php": {
         "Rechercher": "Buscar",
-        "Etes-vous sûr de vouloir éxécuter cette commande ? Celle-ci est classé en dangereuse": "¿Está seguro de que desea ejecutar este comando? Este comando está clasificado como peligroso",
-        "Etes-vous sûr de vouloir éxécuter cette commande : ": "¿Seguro que desea ejecutar este comando?:",
+        "Etes-vous sûr de vouloir éxécuter cette commande ? Celle-ci est classé en dangereuse": "¿Está seguro de que desea ejecutar esta orden? Esta orden está clasificada como peligrosa",
+        "Etes-vous sûr de vouloir éxécuter cette commande : ": "¿Seguro que desea ejecutar esta orden?:",
         "Celle-ci est classé en dangereuse": "Esto está clasificado como peligroso",
         "Commande": "Orden",
-        "Cliquez sur une commande à droite": "Haga clic en un comando en la zona derecha",
-        "Commande : ": "Comando: ",
+        "Cliquez sur une commande à droite": "Haga clic en una orden en la zona derecha",
+        "Commande : ": "Orden: ",
         "OK": "OK",
-        "Cliquez sur une commande à droite ou tapez une commande personalisé ci-dessous": "Haga clic en un control en la zona de la derecha, o escriba un comando personalizado a continuación"
+        "Cliquez sur une commande à droite ou tapez une commande personalisé ci-dessous": "Haga clic en un control en la zona de la derecha, o escriba una orden personalizada a continuación"
     },
     "desktop/modal/icon.selector.php": {
         "Rechercher": "Buscar",
