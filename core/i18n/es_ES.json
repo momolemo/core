@@ -264,7 +264,7 @@
         "Aller au design": "Ir al diseño",
         "Ajouter un log": "Añadir un log",
         "Creer un message": "Crear un mensaje",
-        "Activer/Desactiver Masquer/Afficher un équipement": "Activar / Desactivar Mostrar / Ocultar un equipo",
+        "Activer/Desactiver Masquer/Afficher un équipement": "Activar / Desactivar Mostrar / Ocultar un dispositivo",
         "Faire une demande": "Hacer un pedido",
         "Pause de x seconde(s)": "Pausa de x segundo(s)",
         "Attend jusqu’à ce que la condition soit valide (maximum 2h)": "Espera hasta que la condición sea válida (máximo 2 horas)",
@@ -284,7 +284,7 @@
     },
     "desktop/modal/cmd.human.insert.php": {
         "Objet": "Objeto",
-        "Equipement": "Equipement",
+        "Equipement": "Dispositivo",
         "Commande": "Orden",
         "Aucun": "Ningún"
     },
@@ -411,14 +411,14 @@
         "Masquer": "Ocultar",
         "Inactif": "Inactivo",
         "Nombre d'objet :": "Nombre del Objeto",
-        "Nombre d'équipement :": "Nombre de equipo",
+        "Nombre d'équipement :": "Nombre de dispositivo",
         "Nombre de commande :": "Número de ordenes :",
         "Supprimer": "Borrar",
         "Visible": "Visible",
         "Invisible": "Invisible",
         "Actif": "Activo",
         "Aucun": "Ningún",
-        "Voir les équipements": "Ver equipos",
+        "Voir les équipements": "Ver dispositivos",
         "Non actif": "No activo",
         "Voir les commandes": "Ver las ordenes",
         "Configuration avancée": "Configuración avanzada",
@@ -427,7 +427,7 @@
         "Aller sur la configuration de l'objet": "Ir a la configuración del objeto"
     },
     "desktop/js/display.js": {
-        "Configuration de l'équipement": "Configuración del equipo",
+        "Configuration de l'équipement": "Configuración del dispositivo",
         "Configuration de l'objet": "Configuración del objeto",
         "Configuration de la commande": "Configuración del mando",
         "Etes-vous sûr de vouloir supprimer tous ces équipement ?": "¿ Está seguro de querer borrar todos estos dispositivos ?"
@@ -978,7 +978,7 @@
         "Lien": "Enlace",
         "Scénario": "Escena",
         "Texte/html": "Texto/html",
-        "Equipement": "Equipo",
+        "Equipement": "Dispositivo",
         "Sélectionnez un lien": "Seleccione un enlace",
         "Annuler": "Cancelar",
         "Valider": "Validar"
@@ -1025,7 +1025,7 @@
     },
     "desktop/modal/eqLogic.human.insert.php": {
         "Objet": "Objeto",
-        "Equipement": "Equipo",
+        "Equipement": "Dispositivo",
         "Aucun": "Ninguno"
     },
     "desktop/js/utils.js": {
@@ -1625,8 +1625,8 @@
         "Nom de la copie de l'équipement ?": "Nombre de la copia del dispositivo ?",
         "Etes-vous sûr de vouloir supprimer l\\'équipement": "Está seguro de querer borrar este dispositivo",
         "Veuillez d\\'abord sélectionner un": "Primero seleccione un",
-        "Nom de l'équipement ?": "Nombre del equipo ?",
-        "Configuration de l'équipement": "Configuración del equipo",
+        "Nom de l'équipement ?": "¿Nombre del dispositivo?",
+        "Configuration de l'équipement": "Configuración del dispositivo",
         "Veuillez activer l\\'équipement avant de tester une de ses commandes": "Por favor, active el dispositivo antes de probar una de sus ordenes",
         "Configuration commande": "Configuración orden"
     },
@@ -1653,7 +1653,7 @@
         "Paramètres optionnels sur la tuile": "Parámetros opcionales en la teja",
         "Valeur": "Valor",
         "Action": "Acción",
-        "Cet équipement ne possède pas de batterie/piles ou il n'a pas encore remonté sa valeur": "Este equipo no tiene pilas / batería y aún no se ha recuperado su valor",
+        "Cet équipement ne possède pas de batterie/piles ou il n'a pas encore remonté sa valeur": "Este dispositivo no tiene pilas / batería o aún no se ha recibido su valor",
         "Type de batterie": "Tipo de batería",
         "Mis à jour le": "Actualizado",
         "Niveau de batterie": "Nivel de batería",
