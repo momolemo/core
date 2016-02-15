@@ -8,7 +8,7 @@ Il est accessible par le menu Administration -> Centre de mise à jour :
 
 image::../images/update.JPG[]
 
-Une fois dessus vous obtenez : 
+Sobald sie darauf sind, sehen sie : 
 
 image::../images/update2.png[]
 

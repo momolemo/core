@@ -6,7 +6,7 @@ Accessible par Administration -> Utilisateurs :
 
 image::../images/user.png[]
 
-Une fois dessus vous obtenez : 
+Sobald sie darauf sind, sehen sie : 
 
 image::../images/user2.png[]
 

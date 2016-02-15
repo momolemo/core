@@ -6,7 +6,7 @@ Accessible par Administration -> Personnalisation avancée :
 
 image::../images/custom.png[]
 
-Une fois dessus vous obtenez : 
+Sobald sie darauf sind, sehen sie : 
 
 image::../images/custom2.png[]
 
