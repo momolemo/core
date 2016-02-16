@@ -1,6 +1,6 @@
-= Personnalisation avancée
+= Erweiterte Anpassung
 
-Réservé aux experts cette page permet d'ajouter des script CSS ou JS en plus dans Jeedom, qui sont executé sur chaque page
+Diese Seite ist für die Experten Reserviert, es erlaubt einen in Jeedom CSS-Scripte oder JS hinzuzufügen, das auf jeder Seite ausgeführt wird.
 
 Accessible par Administration -> Personnalisation avancée : 
 
