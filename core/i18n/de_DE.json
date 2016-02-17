@@ -1006,9 +1006,9 @@
         "Afficher la flèche de retour lors de la mise en plein écran": "Den Zurück-Pfeil in der Vollbild-Layout anzeigen",
         "Tailles": "Größen",
         "Responsive mode (Attention toute les valeurs de taille sont ignorées)": "Responsive Modus (Achtung alle Größenwerte werden ignoriert)",
-        "Taille (LxH)": "Grösse(LxH)",
-        "Proportion tablette (ex : 0.7)": "Anteil Tablette (zB 0,7)",
-        "Proportion téléphone (ex 0.5)": "Anteil Telefon (zB 0,5)"
+        "Taille (LxH)": "Größe (LxH)",
+        "Proportion tablette (ex : 0.7)": "Proportion Tablette (z.B.: 0,7)",
+        "Proportion téléphone (ex 0.5)": "Proportion Telefon (z.B.: 0,5)"
     },
     "desktop/modal/plan.configure.php": {
         "Taille du widget": "Größe des Widgets",
