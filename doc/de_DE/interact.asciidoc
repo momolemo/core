@@ -64,7 +64,7 @@ image::../images/interact003.png[]
 
 Ici vous trouvez 2 zones avec plusieurs élément en leur sein : 
 
-* *Général*
+* *Allgemein*
 ** *Nom* : nom de l'interaction (peut être vide, le nom remplace le texte de la demande dans la liste des interactions).
 ** *Groupe* : groupe de l'interaction, cela permet de les organiser (peut être vide, sera donc dans le groupe "aucun").
 ** *Demande* : la phrase modèle génératrice (obligatoire).

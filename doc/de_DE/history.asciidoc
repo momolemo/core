@@ -45,7 +45,7 @@ Nous allons voir ici les détails de la partie configuration des commandes, qui 
 
 image::../images/history3.JPG[]
 
-On retrouve ici : 
+Hier haben wir : 
 
 * *Afficher les statistiques sur les widgets* : permet d'afficher ou non les statistiques sur les widgets ; il faut que le widget soit compatible, ce qui est le cas pour la plupart ; il faut aussi que la commande soit de type numérique
 * *Période de calcul pour min, max, moyenne (en heures)* : période de calcul des statistiques (par défaut 24h), il n'est pas possible de mettre moins d'une heure
