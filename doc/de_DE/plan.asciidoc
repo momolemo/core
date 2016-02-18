@@ -50,15 +50,15 @@ Hier haben wir :
 ** *Name* : Der Name Ihres Designs
 ** *Symbol* : Ein Symbol dafür (erscheint in Design Menüwahl)
 ** *Verfügbar auf Telefon* : Macht dieses Design sichtbar, in der Design Liste der mobilen Version 
-** *Image* : permet d'ajouter une image de fond au design
-** *Ne pas afficher la flèche de retour lors de la mise en plein écran* : en mode pleine ecran cette option masque le bouton de retour au mode fenetré (idéal pour une tablette murale)
-* *Tailles*
-** *Responsive mode (Attention toute les valeurs de taille sont ignorées)* : passe le design en mode responsive pour le faire s'adapter à l'écran. Attention dans ce cas les paramètres de taille sont ignoré
-** *Taille (LxH)* : Permet de fixé la taille de votre design (cadre gris en mode édition)
-** *Proportion tablette (ex : 0.7)* : permet de changer la proportion du design sur tablette (pour le reduire par exemple tout en maitrisant encore la taille ce qui ne serait pas le cas en mode responsive)
-** *Proportion téléphone (ex 0.5)* : permet de changer la proportion du design sur téléphone (pour le reduire par exemple tout en maitrisant encore la taille ce qui ne serait pas le cas en mode responsive)
+** *Bild*: erlaubt, ein Hintergrundbild zum Design hinzuzufügen
+** *Den Zurück-Pfeil in dem Vollbild-Layout anzeigen* : im Vollbildschirm Modus kann diese Option die Rückkehr Schaltfläche zum Fenstermodus anzeigen(Ideal für ein Wand Tabblet) 
+* *Größe*
+** *Responsive Modus (Achtung, alle Größenwerte werden ignoriert)* : gehen sie in den responsive Design Modus über, um sich den Bildschirm anpassen zu lassen. Bitte beachten sie in diesem Fall werden Größeneinstellungen ignorierte.
+** *Größe (LxH)* :
+** *Proportion Tablet (z.B.: 0,7)* : Erlaubt, die Proportion des Designs auf Tablet zu ändern (um es zum Beispiel zu reduzieren, indem man noch die Größe beherrscht, was nicht der Fall im responsive Modus wäre)
+** *Proportion Telefon (z.B.: 0,5)* : Erlaubt, die Proportion des Designs auf Telefon zu ändern (um es zum Beispiel zu reduzieren, indem man noch die Größe beherrscht, was nicht der Fall im responsive Modus wäre)
 
-== Ajout d'un widget
+== Widget hinzufügen
 
 Ensuite il faut ajouter des widgets à votre design, pour cela il faut cliquer sur le bouton d'ajout de widget : 
 
