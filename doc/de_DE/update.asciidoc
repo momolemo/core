@@ -66,7 +66,7 @@ Il est possible dans Administration -> Configuration puis dans la partie "Market
 
 image::../images/administration10.png[]
 
-Ici on retrouve : 
+Hier haben wir : 
 
 * *Adresse* : adresse du market, à ne surtout jamais changer à moins que cela soit sur demande de l'équipe de support
 * *Nom d'utilisateur* : nom d'utilisateur du market

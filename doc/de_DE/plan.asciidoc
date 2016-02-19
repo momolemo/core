@@ -79,7 +79,7 @@ Vous avez accès a la configuration avancé de l'affichage du widget en double c
 
 image::../images/plan10.png[]
 
-Ici on a : 
+Hier haben wir : 
 
 * *Allgemein*
 ** *Taille du widget* : permet de definir un ratio de taille de widget, par exemple ici il ne fera que 65% de sa taille
@@ -91,13 +91,13 @@ Ici on a :
 ** *Ne pas afficher le nom de l'équipement* : masque le nom du widget, s'applique uniquement sur le design
 * *Spécifique* : permet de masquer certaine commande du widget uniquement sur le design
 
-[WICHTIG]
+[IMPORTANT]
 En fonction des plugins certaines options peuvent ne pas marcher
 
 [TIP]
 Vous pouvez en bas à droite redimmensionner les widgets
 
-== Ajout texte/html
+== Text/html hinzufügen
 
 image::../images/plan11.png[]
 
@@ -118,12 +118,12 @@ image::../images/plan13.png[]
 * *Taille de la police (ex 50%, il faut bien mettre le signe %)* : permet de modifier la taille de la police
 * *Ne pas prendre en compte la taille predefinie* : permet d'ignorer la taille prédefini du widget
 * *Profondeur* : pertme de choisir le niveau de la profondeur
-* *Gras* : met le texte en gras
+* *Fett* : macht den Text fett
 
 [TIP]
 Vous pouvez en bas à droite le redimmensionner
 
-== Ajout d'un scénario
+== Ein Szenario hinzufügen
 
 image::../images/plan14.png[]
 
@@ -151,7 +151,7 @@ image::../images/plan17.png[]
 [TIP]
 Vous pouvez en bas à droite le redimmensionner
 
-== Ajout d'un lien
+== Einen Link hinzufügen
 
 image::../images/plan18.png[]
 
@@ -170,7 +170,7 @@ image::../images/plan21.png[]
 Hier haben wir : 
 
 * *Nom* : permet de changer le nom du lien
-* *Lien* : destination du lien
+* *Link* :  Ziel Verknüpfung 
 * *Position* : permet de regler finement la position du lien sur la destination (pour par exemple arriver directement sur la cuisine)
 * *Icone* : permet de mettre une icone à la place du texte
 * *Couleur de fond* : permet de changer la couleur de fond ou de le mettre transparent, ne pas oublier de passer "Defaut" sur NON
@@ -180,12 +180,12 @@ Hier haben wir :
 * *Profondeur* : pertme de choisir le niveau de la profondeur
 * *Taille de la police (ex 50%, il faut bien mettre le signe %)* : permet de modifier la taille de la police
 * *Ne pas prendre en compte la taille predefinie* : permet d'ignorer la taille prédefini du widget
-* *Gras* : met le texte en gras
+* *Fett* : macht den Text fett
 
 [TIP]
 Vous pouvez en bas à droite le redimmensionner
 
-== Ajout d'un graph
+== Einen Graph hinzufügen
 
 image::../images/plan22.png[]
 
@@ -197,7 +197,7 @@ Un double clic dessus vous amene à la configuration de l'élement graph
 
 image::../images/plan24.png[]
 
-Ici on retrouve : 
+Hier haben wir : 
 
 * *Période* : permet de choisir la période d'affichage
 * *Bordure (attention syntax css, ex : solid 1px black)* : permet d'ajouter une bordure, attention la syntaxe est HTML
@@ -206,20 +206,20 @@ Ici on retrouve :
 * *Afficher le navigateur* : permet d'afficher ou non le navigateur (deuxieme graph plus leger en dessous du premier)
 * *Afficher le sélecteur de période* : affiche ou non le selecteur de période en haut à gauche
 * *Afficher la barre de défilement* : affiche ou non la barre de defilement
-* *Fond transparent* : rend le fond transparent
+* *Transparenter Hintergrund* : macht den Hintergrund transparent  
 
 Pour choisir les données à afficher il faut cliquer sur les 3 roues cranté : 
 
 image::../images/plan25.png[]
 
-Vous obtenez (ca peut être un peu long à charger) : 
+Sie erhalten (es brauch möglicherweise etwas lange zu laden) :   
 
 image::../images/plan26.png[]
 
-* *Activer* : le premier bouton permet d'activer ou non l'affichage de la donnée sur le graphique
-* *Couleur* : la couleur de la courbe
-* *Type* : le type de graph (aire, ligne ou colonne)
-* *Escalier* : permet d'afficher la courbe sous la forme d'un escalier au d'un affichage continue
+* *Aktivieren* : Die erste Schaltfläche ist zum aktivieren oder deaktivieren der Anzeige, des graphischen Datenelementes 
+* *Farbe* : die Farbe der Kurve
+* *Typ* : der Typ des Diagramms (Fläche, Linie oder Säule)  
+* *Treppe*: zeigt die Kurve in Form einer Treppe, die ununterbrochene wiedergegeben wird 
 * *Empiler* : permet d'empiler les valeurs des courbes (voir en dessous pour le résultat)
 * *Variation* : affichage la difference de valeur par rapport au point precedent
 * *Echelle* : vu que vous pouvez mettre plusieurs courbe (donnée) sur le meme graphe il est possible de distingué les echelles (droite ou gauche)
