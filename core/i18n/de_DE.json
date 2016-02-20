@@ -1016,10 +1016,10 @@
         "Transparent": "transparent",
         "Défaut": "Standard",
         "Couleur des icônes et textes": "Symbol und Text Farbe",
-        "Arrondir les angles (ne pas oublié de mettre %, ex 50%)": "Runde Ecken (vergessen Sie nicht, setzen%, bsp. 50%)",
+        "Arrondir les angles (ne pas oublié de mettre %, ex 50%)": "Runde Ecken (vergessen Sie nicht das % einzugeben, bsp. 50%)",
         "Bordure (attention syntax css, ex : solid 1px black)": "Rand (Achtung css syntax, bsp.: solid 1px black) ",
         "Profondeur": "Tiefe",
-        "Afficher le nom de l'équipement": "Anzeige Gerätename",
+        "Afficher le nom de l'équipement": "Gerätename anzeigen",
         "Commande": "Befehl",
         "Ne pas afficher la commande": "Den Befehl nicht anzeigen"
     },
